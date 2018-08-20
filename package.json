@@ -1,0 +1,27 @@
+{
+  "name": "overwrite-properties",
+  "version": "1.0.0",
+  "description": "Overwrite a deeply nested object's properties with a specified value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/molnarmark/overwrite-properties.git"
+  },
+  "keywords": [
+    "overwrite-properties",
+    "overwrite",
+    "object",
+    "properties",
+    "fields"
+  ],
+  "author": "Mark Molnar <molnarpw@gmail.com>",
+  "license": "MIT",
+  "reveal": true,
+  "bugs": {
+    "url": "https://github.com/molnarmark/overwrite-properties/issues"
+  },
+  "homepage": "https://github.com/molnarmark/overwrite-properties#readme"
+}
